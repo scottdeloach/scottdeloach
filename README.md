@@ -1,9 +1,10 @@
-### Hi there 👋
+My name is Scott, and I'm  passionate about technical content, learning, training, and helping my clients succeed.
+
+I have 28 years experience as a technical writer, instructional designer, trainer, and UX architect, and I have provided consulting and training for over 100 companies and government agencies around the world. I'm the author of MadCap Flare 2020: The Definitive Guide, HTML5 to the Point, CSS to the Point, and Word 2013 to the Point and a proud Fellow of the Society for Technical Communication. 
+
+You can reach me at scott@clickstart.net
 
 <!--
-**scottdeloach/scottdeloach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
