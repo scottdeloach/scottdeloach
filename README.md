@@ -1,4 +1,4 @@
-<img src="https://www.clickstart.net/Resources/Images/about_scott.png" height="400" align="right">  
+<img src="https://www.clickstart.net/Resources/Images/about_scott.png" raw=true height="400" align="right">  
   
 My name is **Scott DeLoach**, and I'm  passionate about technical content, learning, training, and helping my clients succeed. I have 28 years experience as a technical writer, instructional designer, trainer, and UX architect, and I have provided consulting and training for over 100 companies and government agencies around the world.  
   
