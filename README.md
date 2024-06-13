@@ -2,7 +2,7 @@
   
 My name is **Scott DeLoach**, and I'm  passionate about technical content, learning, training, and helping my clients succeed. I have 30+ years experience as a technical writer, instructional designer, trainer, and UX architect, and I have provided consulting and training for over 100 companies and government agencies around the world.  
   
-📘 [MadCap Flare 2020: The Definitive Guide](https://www.clickstart.net/books_book_flare.htm)  
+📘 [MadCap Flare 2024: The Definitive Guide](https://www.clickstart.net/books_book_flare.htm)  
   
 📫 scott@clickstart.net
 
